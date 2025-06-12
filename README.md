@@ -17,14 +17,14 @@ I'm an iOS developer with over 4 years of experience, passionate about building 
 
 ## 🔥 Featured Projects
 
-### [RickAndMortyApp](https://github.com/gbe-rs/RickAndMortyApp)  
-iOS app using the public Rick and Morty API with MVVM architecture and SwiftUI.
-
 ### [AutoCatalogApp](https://github.com/gbe-rs/AutoCatalogApp)  
-Vehicle catalog app with advanced filtering, favorites management, and API integration.
+Vehicle catalog app with advanced filtering, favorites management, using SwiftUI and Combine.
+
+### [RickAndMortyApp](https://github.com/gbe-rs/RickAndMortyApp)  
+iOS app using the public Rick and Morty API with MVVM architecture and API integration (AlamoFire).
 
 ### [CatsChallenge](https://github.com/gbe-rs/CatsChallenge)  
-Technical challenge app using UIKit, focused on API consumption and clean code.
+Technical challenge app using UIKit, focused on API consumption with URLSession and Clean Code.
 
 ---
 
