@@ -21,7 +21,7 @@ I'm an iOS developer with over 4 years of experience, passionate about building 
 Vehicle catalog app with advanced filtering, favorites management, using SwiftUI and Combine.
 
 ### [RickAndMortyApp](https://github.com/gbe-rs/RickAndMortyApp)  
-iOS app using the public Rick and Morty API with MVVM architecture and API integration (AlamoFire).
+iOS app focused on the public Rick and Morty API consumption with AlamoFire, using UIKit and MVVM architecture.
 
 ### [CatsChallenge](https://github.com/gbe-rs/CatsChallenge)  
 Technical challenge app using UIKit, focused on API consumption with URLSession and Clean Code.
